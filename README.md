@@ -56,5 +56,3 @@ entrega) e contempla:
 - `codigo_rastreio`: código único fornecido pela transportadora.
 - Campos complementares (`transportadora`, datas de envio/entrega) para dar
   realismo ao modelo.
-
-## Estrutura do Repositório
