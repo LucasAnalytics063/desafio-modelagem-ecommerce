@@ -1,12 +1,12 @@
 # Desafio de Modelagem de Dados — Refinamento de Esquema (E-commerce)
 
-## 📌 Contexto
+## Contexto
 
 Este projeto é a entrega do desafio de modelagem de dados proposto em aula, cujo
 objetivo é **refinar um modelo relacional de e-commerce** apresentado
 previamente, incorporando três novas regras de negócio.
 
-## 🎯 Objetivo do Desafio
+## Objetivo do Desafio
 
 Refinar o modelo original acrescentando:
 
@@ -15,7 +15,7 @@ Refinar o modelo original acrescentando:
 2. **Pagamento** — um cliente pode ter mais de uma forma de pagamento cadastrada.
 3. **Entrega** — deve possuir status e código de rastreio.
 
-## 🧠 Decisões de Modelagem
+## Decisões de Modelagem
 
 ### 1. Cliente PF / PJ — Especialização Exclusiva (Herança)
 
@@ -57,4 +57,4 @@ entrega) e contempla:
 - Campos complementares (`transportadora`, datas de envio/entrega) para dar
   realismo ao modelo.
 
-## 🗂️ Estrutura do Repositório
+## Estrutura do Repositório
